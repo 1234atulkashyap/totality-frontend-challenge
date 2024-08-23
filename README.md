@@ -53,6 +53,13 @@ To run this project locally, follow these steps:
     ```bash
     npm run dev
     ```
+4. **Build the project for production**:
+    ```bash
+    npm run build
+    ```
+
+5. **Deploy the Website**:
+  
 
 
 
