@@ -1,5 +1,5 @@
 # Totality Frontend Challenge
-**Live Link**: -  
+**Live Link**: -  https://66c8c94ebd7394e526e20ba9--delightful-faun-b40826.netlify.app/
 
 
 ## Project Overview
