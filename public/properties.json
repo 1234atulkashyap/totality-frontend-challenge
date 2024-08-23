@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "https://st.hzcdn.com/simgs/pictures/living-rooms/cozy-cottage-melyssa-robert-designer-img~9ad16c75024ab3c9_4-8496-1-86b7a9e.jpg",
+    "title": "Cozy Cottage",
+    "description": "A lovely cottage in the countryside.",
+    "price": 100,
+    "location": "Countryside",
+    "bedrooms": 2,
+    "amenities": ["wifi", "parking"]
+  },
+  {
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi-TLKXHW_hn8gY8-IRNvxPpef6SqQw8xkDg&s",
+    "title": "Modern Apartment",
+    "description": "A sleek apartment in the city.",
+    "price": 200,
+    "location": "City",
+    "bedrooms": 3,
+    "amenities": ["wifi", "pool"]
+  },
+  {
+    "id": 3,
+    "image": "https://img.freepik.com/premium-photo/ocean-villa-high-definition-photographic-creative-image_993236-42234.jpg",
+    "title": "Beachfront Villa",
+    "description": "A luxurious villa with stunning views.",
+    "price": 350,
+    "location": "Beach",
+    "bedrooms": 4,
+    "amenities": ["wifi", "parking", "pool", "gym"]
+  },
+  {
+    "id": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQuuBnDo-rTqZyYNTsvwOJLDY6h4Fl8b-ew&s",
+    "title": "Mountain Cabin",
+    "description": "A rustic cabin in the mountains, perfect for a getaway.",
+    "price": 150,
+    "location": "Mountains",
+    "bedrooms": 2,
+    "amenities": ["wifi", "fireplace", "parking"]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ytimg.com/vi/OOJ8HuaOwuQ/maxresdefault.jpg",
+    "title": "Urban Loft",
+    "description": " A trendy loft in the heart of downtown in prime location.",
+    "price": 250,
+    "location": "Downtown",
+    "bedrooms": 1,
+    "amenities": ["wifi", "gym", "parking"]
+  },
+  {
+    "id": 6,
+    "image": "https://cdn11.bigcommerce.com/s-g95xg0y1db/images/stencil/1280x1280/r/modern-farmhouse-nashville-front-exterior.2ea86933-7752-4471-9fb7-ffc5e00b07d4__49614_category.original.jpg",
+    "title": "Country House",
+    "description": "A spacious house in the serene countryside.",
+    "price": 180,
+    "location": "Countryside",
+    "bedrooms": 3,
+    "amenities": ["wifi", "parking", "garden"]
+  },
+  {
+    "id": 7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRQgrZZ-wLQeRc9gBcKmhcqLsy262EqkVDjw&s",
+    "title": "Lakeview Cottage",
+    "description": "A cozy cottage with a beautiful view of the lake.",
+    "price": 120,
+    "location": "Lakeside",
+    "bedrooms": 2,
+    "amenities": ["wifi", "fireplace", "parking"]
+  },
+  {
+    "id": 8,
+    "image": "https://media.istockphoto.com/id/490559099/photo/luxury-big-villa-interior.jpg?s=612x612&w=0&k=20&c=D9oO5zwvuyQH6Wwb1MUKfqWf1rJB1R_XOp9_oHmtmGg=",
+    "title": "Penthouse Suite",
+    "description": "A luxurious penthouse with panoramic city views.",
+    "price": 500,
+    "location": "City",
+    "bedrooms": 4,
+    "amenities": ["wifi", "pool", "gym", "parking"]
+  },
+  {
+    "id": 9,
+    "image": "https://media.istockphoto.com/id/157192238/photo/oasis-with-palm-trees-in-the-middle-of-desert.jpg?s=612x612&w=0&k=20&c=2vOLaMz0HKvhyKI08lt8KmwLsh9t8n5Jw3WSqOFC0xo=",
+    "title": "Desert Oasis",
+    "description": "A tranquil retreat in the desert with modern amenities.",
+    "price": 300,
+    "location": "Desert",
+    "bedrooms": 3,
+    "amenities": ["wifi", "pool", "parking", "garden"]
+  }
+]
