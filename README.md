@@ -54,15 +54,7 @@ To run this project locally, follow these steps:
     npm run dev
     ```
 
-4. **Build the project for production**:
-    ```bash
-    npm run build
-    ```
 
-5. **Preview the production build**:
-    ```bash
-    npm run preview
-    ```
 
 ## Additional Notes
 
